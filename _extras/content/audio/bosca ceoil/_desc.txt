@@ -1,0 +1,5 @@
+Bosca Ceoil is a simple yet powerful tool for creating music. It's a free and open-source software designed for creating chiptune-style music, often associated with retro video games. Bosca Ceoil features an intuitive interface where users can easily compose melodies using a variety of built-in instruments and sound effects. 
+
+It also allows for the creation of loops and patterns, thus allowing users to arrange their compositions into full-length tracks.
+
+Bosca Ceoil's straightforward design and user-friendly controls make it accessible to musicians of all skill levels, from beginners to experienced composers. It's a popular choice for indie game developers, hobbyists, and anyone interested in creating nostalgic or retro-style music.

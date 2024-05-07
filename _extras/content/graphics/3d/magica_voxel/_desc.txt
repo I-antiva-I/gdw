@@ -1,0 +1,3 @@
+MagicaVoxel is a free, lightweight 3D modeling software primarily used for creating voxel art and voxel-based models. Voxel art is a form of digital art where images are created using three-dimensional pixels, or "voxels," instead of traditional polygons. 
+
+MagicaVoxel provides an intuitive interface for designing voxel-based models, scenes, and worlds. It offers features such as voxel sculpting, painting, rendering, and animation tools. The software is popular for its simplicity and versatility in creating artwork and game assets.

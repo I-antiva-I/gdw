@@ -1,0 +1,11 @@
+Unity is a powerful and versatile game engine that allows developers to create small indie games and big AAA projects. 
+
+Unity comes with a comprehensive set of tools and features for game development, including visual editors for scene design, animation, particle effects, UI design, and code writing using C#.
+
+Unity is widely-used and has a large and active community of developers, artists, and other enthusiasts who provide support, tutorials, documentation, and resources to help newcomers get started with the engine. 
+
+Unity is a cross-platform game engine that allows developers to create games for a wide range of platforms, including Windows, macOS, Linux, iOS, Android, WebGL, Xbox, PlayStation, and more, thus enabling developers to reach a broader audience with their games.
+
+Unity has a vast variety of assets, plugins, tools, and resources available on the Unity Asset Store. 
+
+Unity also has intuitive and user-friendly interface. 

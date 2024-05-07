@@ -1,0 +1,3 @@
+Blender is a powerful and free open-source 3D creation software that is used for creating animations, visual effects, and more. Blender features include 3D modeling, texturing, rigging, animation, simulation, rendering, compositing, and motion tracking.
+
+It offers a comprehensive set of versatile tools for artists, designers, and animators. Blender is suitable for both beginners and professionals. Blender's community is vibrant and active, providing extensive resources, tutorials, and add-ons to enhance its functionality.

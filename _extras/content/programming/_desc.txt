@@ -1,0 +1,1 @@
+Graphics refers to visual representations or images created using computer technology. Graphics typically involve the creation, manipulation, and rendering of images, animations, and visual effects. Graphics can be categorized into two main types 2D graphics and 3D graphics.

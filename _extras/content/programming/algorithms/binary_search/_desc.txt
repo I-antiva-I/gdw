@@ -1,0 +1,12 @@
+
+Algorithms are step-by-step commands or rules for solving a particular problem or accomplishing a specific task. In computing, algorithms are used to perform computations, process data, and automate tasks. They are the foundation of computer programs. Algorithms can be expressed in various forms: natural language, pseudocode, flowcharts, and programming languages.
+
+A good algorithm should:
+Provide clear and unambiguous instructions for solving a problem, in other words each step in the algorithm must be well-defined and executable.
+
+Must have a finite number of steps - every algorithm should eventually terminate and produce some result.
+
+Must be efficient. The most usual factors are time complexity (how long it takes to find result) and space complexity (how much memory is required).
+
+Should produce the correct output for all valid inputs. 
+

@@ -1,0 +1,13 @@
+A linked list is a data structure,where elements are stored in "nodes".
+
+Each node contains two parts: the data itself and a reference to the next node in the sequence. 
+
+The first node of a linked list is called the head, and the last node is called tail, which also typically points to a NULL reference, indicating the end of the list. 
+
+Linked lists come in various forms, such as singly linked lists, where each node points only to the next node, and doubly linked lists, where each node has references to both the next and previous nodes, enabling traversal in both directions.
+
+
+
+Linked lists are composed of nodes, where each node contains a data element and a reference (pointer) to the next node in the sequence. 
+
+Unlike arrays, linked lists do not store elements in contiguous memory locations. Instead, each node can be located anywhere in memory, and they are connected via pointers. Therefore, linked lists offer a dynamic memory allocation (nodes can be allocated and deallocated dynamically), efficient insertion and deletion operations (when you have a reference to the node), and flexibility in size. However, they have drawbacks such as slower access times for arbitrary elements (you have to traverse the list from the beginning) and higher memory overhead due to the storage of pointers.

@@ -1,0 +1,3 @@
+Aseprite is a pixel art and animation software designed for creating and editing pixel-based artwork. It's widely used by indie game developers, pixel artists, and animation enthusiasts.
+
+Aseprite provides a powerful and intuitive pixel art editor, that offers tools for drawing, painting, selecting, filling, and editing individual pixels, allowing artists to create sprites, characters, backgrounds, and tilesets with ease.

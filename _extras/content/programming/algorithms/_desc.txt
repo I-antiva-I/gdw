@@ -1,0 +1,45 @@
+ 
+
+Binary search is a search algorithm used to find the position of a target value within a sorted array. It works by repeatedly dividing the search interval in half until the target value is found or the interval is empty. The search interval is halved by comparing the target element with the middle value of the search space.
+
+The idea of binary search is to use the information that the array is sorted and reduce the time complexity to O(log N).
+
+1 # Python3 code to implement iterative Binary
+2 # Search.
+3 
+4 
+5 # It returns location of x in given array arr
+6 def binarySearch(arr, low, high, x):
+7 
+8     while low <= high:
+9 
+10         mid = low + (high - low) // 2
+11 
+12         # Check if x is present at mid
+13         if arr[mid] == x:
+14             return mid
+15 
+16         # If x is greater, ignore left half
+17         elif arr[mid] < x:
+18             low = mid + 1
+19 
+20         # If x is smaller, ignore right half
+21         else:
+22             high = mid - 1
+23 
+24     # If we reach here, then the element
+25     # was not present
+26     return -1
+27 
+28 
+29 # Driver Code
+30 if __name__ == '__main__':
+31     arr = [2, 3, 4, 10, 40]
+32     x = 10
+33 
+34     # Function call
+35     result = binarySearch(arr, 0, len(arr)-1, x)
+36     if result != -1:
+37         print("Element is present at index", result)
+38     else:
+39         print("Element is not present in array")

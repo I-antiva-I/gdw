@@ -1,0 +1,10 @@
+
+Data structures are ways of organizing and storing data to use, manage, and manipulate it more efficiently. They are often used with algorithms. Different data structures are designed to serve different purposes and have varying characteristics in terms of efficiency, ease of use, and suitability for particular tasks.
+
+The most common types of data structures:
+Arrays
+Linked Lists
+Stacks
+Queues
+Trees
+Graphs

@@ -1,0 +1,3 @@
+The three-dimensional graphics  are used to represent objects in a virtual space with width, height, and depth dimensions. 
+
+In order to create three-dimensional models of characters, objects, and environments within the game world, 3D graphics use vertices, edges, and polygons. These models can be textured, animated, and illuminated to achieve realistic or stylized visuals.

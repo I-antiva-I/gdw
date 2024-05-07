@@ -1,0 +1,17 @@
+The term 2D refers to the two-dimensional graphics, meaning they are created on a flat plane with width and height dimensions. Examples of 2D graphics include images, icons, and text.
+2D graphics can be used to represent different things such as:
+Visual effects
+	particles
+	explosions 
+	weather
+	lighting
+	many others
+User Interface
+	menus,
+	buttons,
+	labels,
+	HUD (heads-up display) elements.
+Sprites
+	characters,
+	objects,
+	backgrounds

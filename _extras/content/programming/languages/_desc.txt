@@ -1,0 +1,1 @@
+Programming languages are formal languages used to communicate instructions to computers. They allow developers to write code that specifies the actions and behaviors they want the computer to perform. Programming languages vary in syntax, semantics, and purpose, but they all serve as a means of expressing algorithms, logic, and data manipulation.

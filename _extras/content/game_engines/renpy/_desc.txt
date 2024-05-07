@@ -1,0 +1,5 @@
+Ren'Py is a visual novel engine – used by thousands of creators from around the world – that helps you use words, images, and sounds to tell interactive stories that run on computers and mobile devices. These can be both visual novels and life simulation games. The easy to learn script language allows anyone to efficiently write large visual novels, while its Python scripting is enough for complex simulation games.
+
+Visual novels are computer-based stories that are told through words, images, sounds, and music. Many visual novels also present the player with menu choices that allow the player to control how the story is told.
+
+Life Simulation games, such as management and dating sims, are more interactive games that mix story with gameplay. Ren'Py's screen language allows one to create complex interfaces, while its support for the Python scripting language allows for complex game logic, if that's what your project requires.

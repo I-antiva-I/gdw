@@ -1,0 +1,12 @@
+
+
+
+Godot is a popular open-source game engine that is freely available under the MIT license.
+
+Godot supports two programming languages for scripting: GDScript and C#.
+
+Godot uses a node-based scene system, where game scenes are constructed using a hierarchy of nodes. Nodes can represent various game objects, such as sprites, characters, cameras, lights, and etc. The system can be used both for 2D and 3D game development
+
+Godot is highly extensible, allowing developers to create custom tools, plugins, and modules to enhance the engine's functionality. Additionally, Godot's source code is available on GitHub, enabling developers to contribute to the engine's development and collaborate with the community.
+
+Moreover, Godot has a very passionate and active community of developers, artists, and contributors who provide support, tutorials, documentation, and resources to help newcomers get started with the engine and create games.

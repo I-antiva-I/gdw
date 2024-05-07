@@ -1,0 +1,20 @@
+#212121 | BACKGROUND
+#343434
+#424242
+#545454
+#696969
+
+#1E90FF
+#FFD700
+
+	background: var(--bg-level-1);
+	color: var(--default-white);
+	
+	
+	t-family: "Roboto", Sans-serif;
+    font-size: 1.25rem;
+    font-weight: 500;
+    background-color: #545454;
+    border-radius: 4px 4px 4px 4px;
+    padding: 8px 8px 8px 8px;
+}

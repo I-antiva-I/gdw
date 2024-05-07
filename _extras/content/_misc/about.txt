@@ -1,0 +1,5 @@
+This website is dedicated to the development of indie video games. It provides basic information about the tools needed for creating games, such as game engines, audio and graphic programs, and additional helpful resources.
+
+I hope you find at least one article useful for your hobby!
+
+This website is also a semestrial project of the course 4SA220 - Web 2.0 & Social Networks.

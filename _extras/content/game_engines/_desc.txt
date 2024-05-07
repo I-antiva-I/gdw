@@ -1,0 +1,2 @@
+
+Game engines are software frameworks designed to help developers build and deploy games more efficiently. They typically provide a suite of tools and libraries for tasks like rendering graphics, handling inputs, managing physics, and more. Some popular game engines include:
