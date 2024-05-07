@@ -1,0 +1,43 @@
+/* Images in category descriptions */
+.my-category-image
+{
+	margin: 2rem auto;
+	border-radius: 8px;
+}
+
+/* Mirrored icons for specific categories */
+.title-audio ~ span,
+.title-graphics ~ span,
+.title-3d-graphics ~ span
+{
+	transform: scaleX(-1) !important;
+}
+
+.my-image-rounded,
+.my-image-rounded img
+{
+	border-radius: 4px !important;
+	overflow: hidden;
+}
+
+.my-image-group
+{   
+    margin-top: 1rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.my-image-group img
+{
+    width: 33%;
+}
+
+.hero.is-dark.is-bold 
+{
+    background-image: linear-gradient(0deg,
+     var(--bg-level-3) 0%,
+     var(--bg-level-2) 5%,
+     var(--bg-level-1) 50%,
+     var(--bg-level-2) 95%,
+     var(--bg-level-3) 100%);
+}

@@ -1,0 +1,21 @@
+/* Variables */
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body
+{
+	--bg-level-1: #212121;	
+	--bg-level-2: #343434;
+	--bg-level-3: #424242;
+	--bg-level-4: #545454;
+	--bg-level-5: #696969;
+	
+	--default-yellow: 	#FFD700;
+	--default-orange: 	#FF4500;
+	--default-blue: 	#1E90FF;
+	--default-green: 	#2E8B57;
+	
+	--default-black: black;
+	--default-white: whitesmoke;
+
+	font-family: "Roboto";
+}

@@ -1,0 +1,84 @@
+/* Buttons + Links */
+a 
+{
+    color: var(--default-blue);
+    cursor: pointer;
+    text-decoration: none;
+}
+a:hover
+{
+	color: var(--default-yellow);
+    font-weight: 500;
+}
+
+/* Home page */
+.home-panel a.panel-block:hover
+{
+	background: 	var(--default-blue);
+	color: 			var(--default-white);
+}
+a.panel-block:hover .panel-icon
+{
+	color: 			var(--default-white);
+}
+.button.is-info.is-outlined 
+{
+	border-color: 	var(--default-blue);
+	font-weight: 	500;
+	color: 			var(--default-blue);
+	border-width: 	2px;
+}
+.button.is-info.is-outlined:hover
+{
+	background: 	var(--default-blue);
+	border-color: 	var(--default-blue);
+}
+.home-panel .panel-tabs a
+{
+	color: var(--default-black);
+	border-bottom: 1px solid var(--default-black);
+}
+.home-panel .panel-tabs a:hover:not(.is-active)
+{
+	color: var(--default-blue);
+	border-bottom: 1px solid var(--default-blue);
+    font-weight: normal;
+}
+.home-panel .panel-tabs a.is-active
+{
+	color: var(--default-green);
+	border-bottom: 1px solid var(--default-green) !important;
+	font-weight: bold;
+}
+
+
+/* Buttons */
+.my-push-button
+{
+    color: rebeccapurple !important;
+}
+.my.button .elementor-button-content-wrapper
+{
+	align-items: center;
+}
+.my.button .elementor-button-icon
+{
+	display: flex;
+}
+
+.wp-block-search__inside-wrapper 
+{
+	display: flex;
+}
+a.menu-item
+{
+    border: 2px solid var(--bg-level-5) !important;
+}
+a.menu-item + a.menu-item
+{
+    margin-left: 1rem;
+}
+a.menu-item:hover:not(.is-active)
+{
+    border: 2px solid var(--default-blue) !important;
+}
