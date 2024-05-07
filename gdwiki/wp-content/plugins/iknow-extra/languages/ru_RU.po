@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Project-Id-Version: Iknow extra\n"
+"POT-Creation-Date: 2021-03-26 10:01+0200\n"
+"PO-Revision-Date: 2021-03-26 10:04+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: iknow-extra.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: iknow-extra.php:17
+#, php-format
+msgid ""
+"This plugin \"Iknow Extra\" works only with WordPress theme \"Iknow\". "
+"Please, install and activate the theme \"Iknow\" first (<a href=\"%1$s\" "
+"target=\"_blank\">https://wordpress.org/themes/iknow/</a>)"
+msgstr ""
+"Этот плагин «Iknow Extra» работает только с темой WordPress «Iknow». "
+"Пожалуйста, сначала установите и активируйте тему «Iknow» ( <a href=\"%1$s"
+"\" target=\"_blank\">https://wordpress.org/themes/iknow/</a> )"
+
+#: inc/class-category-extra-fields.php:43
+#: inc/class-category-extra-fields.php:83
+msgid "Category Icon"
+msgstr "Иконка категории"
+
+#: inc/class-category-extra-fields.php:45
+#: inc/class-category-extra-fields.php:88
+msgid ""
+"Enter Icon class (for example: fab fa-font-awesome-flag). Before using, you "
+"need to include on the site any icon font."
+msgstr ""
+"Введите класс иконки (например: fab fa-font-awesome-flag). Перед "
+"использованием необходимо включить на сайте любой иконочный шрифт."
+
+#: inc/class-category-extra-fields.php:61
+msgid "Full Description"
+msgstr "Полное описание"
+
+#: inc/class-category-extra-fields.php:75
+msgid "A full description will appear in taxonomy."
+msgstr "Полное описание появится в таксономии."
+
+#: inc/voting.php:26
+msgid "You have already submitted your vote!"
+msgstr "Вы уже проголосовали!"
+
+#: inc/voting.php:62
+msgid "You have successfully changed your mind!"
+msgstr "Вы успешно передумали!"
+
+#: inc/voting.php:78
+msgid "Thanks for your vote! You can leave a comment about your experience"
+msgstr "Спасибо за голос! Вы можете оставить комментарий"
+
+#: inc/voting.php:182
+msgid "Yes"
+msgstr "Да"
+
+#: inc/voting.php:186
+msgid "No"
+msgstr "Нет"
+
+#: inc/voting.php:206
+msgid "Was this helpful"
+msgstr "Было ли это полезно"
+
+#. Plugin Name of the plugin/theme
+msgid "Iknow extra"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "hhttps://wordpress.org/plugins/iknow-extra/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The extension for free WordPress theme Iknow"
+msgstr "Расширение для бесплатной темы WordPress Iknow"
+
+#. Author of the plugin/theme
+msgid "Wow-Company"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wow-estore.com"
+msgstr ""
